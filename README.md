@@ -1,7 +1,14 @@
+
+
 #include<iostream>
+
+    
 using namespace std;
+    
+    
     int main(){
-        int age1 , age2 , age3 , age4 , age5 , age6 , age7 , age8 , age9 , age10;
+
+    int age1 , age2 , age3 , age4 , age5 , age6 , age7 , age8 , age9 , age10;
         int TotalAge , AverageAge;
 
         cout << "Please Enter the age of student  1";
